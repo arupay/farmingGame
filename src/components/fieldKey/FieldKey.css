@@ -6,3 +6,21 @@
     display: flex;
     justify-content: space-between;
 }
+
+.fieldKey__block {
+    height: 80px;
+    width: 80px;
+    background-color: bisque;
+}
+
+.fieldKey__house {
+    background-color: brown;
+}
+
+.fieldKey__forest {
+    background-color: green;
+}
+
+.fieldKey__water {
+    background-color: blue;
+}
